@@ -51,6 +51,7 @@ Module.symvers
 Mkfile.old
 dkms.conf
 pac/pac
-pac/x64/Debug/pac.exe.recipe
+.vs/pac/FileContentIndex
+*.recipe
 *.log
 *.tlog
