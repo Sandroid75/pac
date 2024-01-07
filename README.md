@@ -35,7 +35,9 @@ You should be able to build it and running:
 | s           | take a screenshot             |
 | t           | run the board test            |
 | space       | run the emulation at x2 speed |
-| i           | toggle invincible mode        |
+| i           | toggle invincibility mode     |
+| GamPad/Joy  | try it and have fun!          |
+| ----------- | ----------------------------- |
 
 ## Resources
 
@@ -46,5 +48,5 @@ You should be able to build it and running:
 - https://simonowen.com/articles/pacemu/
 
 ## 
-original repo here: https://github.com/superzazu/pac.git
-I didn't want to fork because a lot of changes were made
+This is the original repo here: https://github.com/superzazu/pac.git
+I didn't want to fork it because of a lot of changes were made...sorry
