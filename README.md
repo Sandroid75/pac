@@ -1,7 +1,7 @@
 # pac
  PacMan Arcade Game based on Z80 emulator with original ROMs
 
-A [Pac-Man (1980 arcade game)](https://en.wikipedia.org/wiki/Pac-Man) emulator written in C99 with the SDL2.
+A [Pac-Man (1980 arcade game)](https://en.wikipedia.org/wiki/Pac-Man) emulator written in C99 with SDL2.
 
 ![pac demo gif](demo.gif)
 
@@ -35,7 +35,8 @@ You should be able to build it and running:
 | s           | take a screenshot             |
 | t           | run the board test            |
 | space       | run the emulation at x2 speed |
-| i           | toggle invincible mode        |
+| i           | toggle invincibility mode     |
+| GamPad/Joy  | try it and have fun!          |
 
 ## Resources
 
@@ -46,5 +47,33 @@ You should be able to build it and running:
 - https://simonowen.com/articles/pacemu/
 
 ## 
-original repo here: https://github.com/superzazu/pac.git
-I didn't want to fork because a lot of changes were made
+This is the original repo here: https://github.com/superzazu/pac.git
+
+I didn't want to fork it because of a lot of changes were made and bla bla bla...sorry
+
+***
+## Copyleft 1991-2024 by Sandroid75
+***
+This code was made by Sandroid75 to illustrate various C language powers.
+My recommendations for developing robust C code are:
+ - first of all read The C Programming Language: ANSI C Version by K&R (C);
+ - after read K&R keep always in mind rules and methods;
+ - one of the most characteristics and powers of the C is the pointers;
+ - pointers are very helpfull and flexibile to write efficient code;
+ - pointers can be dangerous for stable code if you forget the rules;
+ - if you use pointers for list of datas don't forget to reserve memory;
+ - if you use pointers for list of datas don't forget to release memory;
+ - write well-formatted code;
+ - only good formatted code makes the code readable;
+ - good formatting code reduces the risk of errors;
+ - good formatting code facilitates the debugging;
+ - good formatting code facilitates the maintenences;
+ - good formatting code facilitates future implementantions;
+ - commenting the code is another good and necessary practice;
+ - commenting the code means understanding what you are doing;
+ - commenting the code means understanding what you have done;
+ - commenting the code is not a waste of time;
+ - at the last but not least, remember rules and methods.
+
+***
+_Have fun with C programming by Sandroid75 !!!_
